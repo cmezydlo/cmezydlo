@@ -5,14 +5,11 @@
 I turn raw data into clear insights and dashboards that help leaders and teams make data-driven decisions. My work focuses on exploration, analysis, and data visualization. I'm currently seeking data analysts and BI developer roles. 
 
 ## About me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Databricks
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 Focus areas: data analysis, data modeling, dashboards, and reporting
+- 🌱 Currently learning: Databricks, advanced SQL
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- 💼 Background: I have twenty years of previous experience supporting petroleum engineers including maintaining/querying well data and assisting with monthly budgeting/forecasting.
+- 📍 Location: Based in Colorado, open to remote/hybrid/onsite opportunities.
 
 ## Featured projects
 **[Loan Default Risk Analysis](https://github.com/cmezydlo/loan-default-risk-analysis)**
@@ -24,23 +21,16 @@ Assessed and analyzed 464 claims to uncover trends in cost/spend and billed vs p
 *Utilized Visual Studio, Python, Pandas, ZipFile, Tableau Public, GitHub, and GitBash.*
 
 **[AirBNB Market Analysis](https://github.com/cmezydlo/airbnb-analysis)**
-Used SQL to explore 4939 AirBNB listings for Denver, CO, examining price, ratings and occupancy rate. Identified [summarize findings]. Used Claude (AI) to speed up query development, validate findings and create complex visuals Excel could not handle
+Used SQL to explore 4939 AirBNB listings for Denver, CO, examining price, ratings and occupancy rate. Identified that in Denver, the overall median price is $176 per night, the median rating is 4.94, and occupancy rate increases from April through August. Used Claude (AI) to speed up query development, validate findings, create complex visuals Excel could not handle, and document the project.
 *Utilized pgAdmin4 (PostgreSQL), Notepad++, Claude AI, Python (OpenCV/PIL), Excel, and Github.*
 
 ## Skills & tools
-**Languages:** Python, SQL
-**Analysis:** pandas, NumPy, scikit-learn, matplotlib
-**Visualization & BI:** Tableau, Spotfire, Microsoft Power BI, Excel
-**Tools:** Git, GitHub, Jupyter, Spyder, VS Code, pgAdmin, Microsoft SQL Server, Oracle SQL Developer, Claude (AI)
+**Languages:** Python, SQL  
+**Analysis:** pandas, NumPy, scikit-learn, matplotlib  
+**Visualization & BI:** Tableau, Spotfire, Microsoft Power BI, Excel  
+**Tools:** Git, GitHub, Jupyter, Spyder, VS Code, pgAdmin, Microsoft SQL Server, Oracle SQL Developer, Claude (AI)  
 
 ## Let's Connect
-[LinkedIn](https://www.linkedin.com/in/caramezydlo/)
-[Email](caramezydlo@gmail.com)
-[Tableau Public](https://public.tableau.com/app/profile/cara.mezydlo/)
-
-
-
-
-
-
--->
+[LinkedIn](https://www.linkedin.com/in/caramezydlo/)  
+[Email](caramezydlo@gmail.com)  
+[Tableau Public](https://public.tableau.com/app/profile/cara.mezydlo/)  
