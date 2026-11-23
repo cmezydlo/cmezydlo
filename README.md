@@ -6,18 +6,18 @@ I turn raw data into clear insights and dashboards that help leaders and teams m
 
 ## About me
 - 🔭 Focus areas: data analysis, data modeling, dashboards, and reporting
-- 🌱 Currently learning: Databricks, advanced SQL
+- 🌱 Currently learning: Databricks, advanced SQL, AI tools
 - 😄 Pronouns: she/her
 - 💼 Background: I have twenty years of previous experience supporting petroleum engineers including maintaining/querying well data and assisting with monthly budgeting/forecasting.
 - 📍 Location: Based in Colorado, open to remote/hybrid/onsite opportunities.
 
 ## Featured projects
 **[Loan Default Risk Analysis](https://github.com/cmezydlo/loan-default-risk-analysis)**
-Assessed, cleaned, and analyzed 601 loan records to find the key factors of default for use to flag high-risk borrowers. Found that credit score, debt to interest rate ratio, and interest rate were the 3 strongest predicting factors of default. Proposed minimum values for these factors to reduce default rate to 12% from 25%.
+Assessed, cleaned, and analyzed 601 loan applications to find the key factors of default for use to flag high-risk borrowers. Found that credit score, debt to income (DTI) rate ratio, and interest rate were the 3 strongest predicting factors of default. Proposed minimum values for these factors to reduce default rate to 12% from 25%.
 *Utilized Python, Seaborn, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook, Excel, Github, and Git.*
 
 **[Insurance Claims Analysis](https://github.com/cmezydlo/claim-analysis)**
-Assessed and analyzed 464 claims to uncover trends in cost/spend and billed vs paid amounts. Discovered that inpatient claims account for 70% of claim cost, are the category with the lowest paid ratio (74%), and inpatient claims are only 22% of all claims made to ABC Insurance.
+Assessed and analyzed 449 claims to uncover trends in cost/spend and billed vs paid amounts. Discovered that inpatient claims account for 70% of claim cost, are the category with the lowest paid ratio (74%), and inpatient claims are only 22% of all claims made to ABC Insurance.
 *Utilized Visual Studio, Python, Pandas, ZipFile, Tableau Public, GitHub, and GitBash.*
 
 **[AirBNB Market Analysis](https://github.com/cmezydlo/airbnb-analysis)**
