@@ -13,7 +13,7 @@ I turn raw data into clear insights and dashboards that help leaders and teams m
 
 ## Featured projects
 **[Loan Default Risk Analysis](https://github.com/cmezydlo/loan-default-risk-analysis)**
-Assessed, cleaned, and analyzed 601 loan applications to find the key factors of default for use to flag high-risk borrowers. Found that credit score, debt to income (DTI) rate ratio, and interest rate were the 3 strongest predicting factors of default. Proposed minimum values for these factors to reduce default rate to 12% from 25%.
+Assessed, cleaned, and analyzed 601 loan applications to find the key factors of default for use to flag high-risk borrowers. Found that credit score, debt to income (DTI) ratio, and interest rate were the 3 strongest predicting factors of default. Proposed minimum values for these factors to reduce default rate to 12% from 25%.
 *Utilized Python, Seaborn, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook, Excel, Github, and Git.*
 
 **[Insurance Claims Analysis](https://github.com/cmezydlo/claim-analysis)**
